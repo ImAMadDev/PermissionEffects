@@ -6,3 +6,4 @@ api: 5.0.0
 permissions:
   permissionEffects.*:
     default: op
+    description: "Main PermissionEffects permission"
