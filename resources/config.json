@@ -1,0 +1,18 @@
+{
+    "messages": {
+        "playerEffectsGiven": "§aYou have obtained your effects!"
+    },
+    "effects": [
+        {
+            "effectName": "speed",
+            "amplifier": 1,
+            "visibleBubbles": true,
+            "ambient": false,
+            "overrideColor": [147, 36, 35],
+            "allowedWorlds": [
+                "world"
+            ]
+        }
+
+    ]
+}

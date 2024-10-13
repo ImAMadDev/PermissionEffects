@@ -1,0 +1,8 @@
+name: PermissionEffects
+author: AppGallery
+version: 1.0
+main: appgallery\permissionEffects\PermissionEffects
+api: 5.0.0
+permissions:
+  permissionEffects.*:
+    default: op
